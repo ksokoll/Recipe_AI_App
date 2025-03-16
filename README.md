@@ -1,4 +1,4 @@
-# Recipe_AI: Backend for AI-Powered Recipe Generator and Evaluator
+# Recipe_AI: Backend for AI-Powered Recipe Generator
 
 ## Project Overview
 Recipe_AI is the backend service for a recipe generation app powered by AI. The app uses large language models (LLMs) to generate personalized recipes based on user inputs such as available ingredients, dietary preferences, and desired cuisine types. The backend is hosted as Azure Functions and handles the recipe generation and evaluation processes.
